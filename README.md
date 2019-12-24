@@ -1,5 +1,1 @@
-# helloworld
-A first repository
-
-This is a readme writtern by summerfang2000. It is a practise file and has no special meaning.
-I hope you will enjoy the learning of git.
+I want to rewrite all readme because I want to express in a different way.
